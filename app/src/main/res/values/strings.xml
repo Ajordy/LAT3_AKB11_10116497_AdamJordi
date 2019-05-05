@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="music">Music</string>
+    <string name="profile">Profile</string>
+    <string name="daily">Daily</string>
+    <string name="gallery">Gallery</string>
+    <string name="deskripsi">Halooo, nama saya Adam jordy saya adalah mahasiswa Teknik informatika di UNIKOM bandung.
+        Saya lahir di Mansalong pada tanggal 27 November 1997 anak satu satu nya dari orangtua saya.  dan sekarang saya berumur 21 tahun
+    </string>
+    <string name="swipe"><![CDATA[SWIPE -->]]></string>
+    <string name="pray">Pray</string>
+    <string name="code">Code</string>
+    <string name="sleep">Sleep</string>
+    <string name="findme">Find Me with Google Maps</string>
+    <string name="versionapp">About</string>
+    <string name="aktivitash">Daily Activity</string>
+    <string name="tmbhAct">Tambah Aktivitas</string>
+</resources>
